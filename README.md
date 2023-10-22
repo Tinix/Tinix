@@ -7,10 +7,6 @@ I love working with Ruby and another language  like Go, Rust, Python and Elixir.
 </p>
 
 
-**💼 Currently working as:**
-
-Software Engineer 
-
 **🌱 Currently working on:**
 
 <code><a href="https://ruby-land.org/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/ruby-lang/ruby-lang-horizontal.svg"></a></code>
