@@ -1,4 +1,4 @@
-## Hi there I'am Daniel 👋
+## Hi! I'm Daniel, a Software Engineer 👋
 
 <p align="center">
 I'am Software Engineer from Cordoba Argentina :argentina:. Also known as Tinix.
@@ -7,34 +7,47 @@ I love working with Ruby and another language  like Go, Rust, Python and Elixir.
 </p>
 
 
-**🌱 Currently working on:**
-
-<code><a href="https://ruby-land.org/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/ruby-lang/ruby-lang-horizontal.svg"></a></code>
-<code><a href="https://go.dev/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/golang/golang-icon.svg"></a></code>
-<code><a href="https://rust-land.org/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/rust-lang/rust-lang-ar21.svg"></a></code>
-<code><a href="https://elixir-land.org/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/elixir-lang/elixir-lang-ar21.svg"></a></code>
-<code><a href="https://www.python.org/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></a></code>
-<code><a href="https://www.mongodb.com/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg"></a></code>
-<code><a href="https://rubyonrails.org/" target="_blank"><img height="50" src="https://camo.githubusercontent.com/937a497ef2c526442f18fde7a68bb9b62666170153ab50e29ab7b73d49d3b835/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f7261696c732f7261696c732d706c61696e2d776f72646d61726b2e737667"></a></code>
+**🌱 Technology Stack**
 
 
-<code><a href="https://graphql.org/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/graphql/graphql-ar21.svg"></a></code>
-<code><a href="https://www.mysql.com/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/mysql/mysql-horizontal.svg"></a></code>
-<code><a href="https://redis.io/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/redis/redis-ar21.svg"></a></code>
-<code><a href="https://postgresql.org/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/postgresql/postgresql-horizontal.svg"></a></code>
 
-<code><a href="https://www.docker.com/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/docker/docker-ar21.svg"></a></code>
-<code><a href="https://kubernetes.io/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-ar21.svg"></a></code>
-<code><a href="https://git-scm.com//" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></a></code>
+  ![Ruby](https://img.shields.io/badge/Ruby-BA0C2F?style=for-the-badge&logo=ruby&logoColor=white)
+  ![Ruby on Rails](https://img.shields.io/badge/Ruby_on_Rails-CC0000?style=for-the-badge&logo=ruby-on-rails&logoColor=white)
+  ![rspec_badge](https://user-images.githubusercontent.com/116964982/238382095-7d4a3eeb-c907-4e1c-b8cf-abf6b8c20c6e.png)
+  ![Postgresql](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+  ![SQLite3](https://img.shields.io/badge/SQLite3-003B57.svg?style=for-the-badge&logo=SQLite&logoColor=white)
+  ![AWS-EC2](https://img.shields.io/badge/Amazon%20EC2-FF9900.svg?style=for-the-badge&logo=Amazon-EC2&logoColor=white) 
+  ![AWS-Elastic-IPs](https://img.shields.io/badge/AWS%20Elastic%20IPs-00B265.svg?style=for-the-badge&logo=Amazon-EC2&logoColor=white)
+  ![Vultr](https://img.shields.io/badge/Vultr-007BFC.svg?style=for-the-badge&logo=Vultr&logoColor=white)
+  ![Heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
+  ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+  ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+  ![CircleCI](https://img.shields.io/badge/circleci-343434?style=for-the-badge&logo=circleci&logoColor=white)
+  ![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+  ![Twilio/SendGrid](https://img.shields.io/badge/Twilio/Send_Grid-F22F46?style=for-the-badge&logo=Twilio&logoColor=white) 
+  ![Notion](https://img.shields.io/badge/Notion-E6E6E6.svg?style=for-the-badge&logo=Notion&logoColor=black)
+  ![Miro](https://img.shields.io/badge/Miro-F7C922?style=for-the-badge&logo=Miro&logoColor=050036)
+  ![HTML](https://img.shields.io/badge/HTML5-7d3cff?style=for-the-badge&logo=html5&logoColor=white)
+  ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+  ![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+  ![Docker](https://img.shields.io/badge/Docker-2496ED.svg?style=for-the-badge&logo=Docker&logoColor=white)
+  ![Terminal](https://img.shields.io/badge/Terminal-3CB371?style=for-the-badge&logo=gnu-bash&logoColor=white) 
+  ![JSON](https://img.shields.io/badge/json-FF69B4?style=for-the-badge&logo=json&logoColor=white)
 
-**🌱 Looking forward to learn:**
 
-<code><a href="https://www.javascript.com/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg"></a></code>
-<code><a href="https://reactjs.org/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg"></a></code>
-<code><a href="https://nextjs.org/" target="_blank"><img height="50" src="https://upload.vectorlogo.zone/logos/nextjs/images/2d3864ef-00e0-4026-ab1d-30e4a98e2899.svg"></a></code>
-<code><a href="https://cloud.google.com/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-ar21.svg"></a></code>
+**🌱 What I'm Learning**
 
-<div align="center">
+  ![AWS S3](https://img.shields.io/badge/Amazon%20S3-FF9900.svg?style=for-the-badge&logo=Amazon-S3&logoColor=white)
+  <br><br>
+
+**🌱 What I'm Interested In**
+
+  ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
+  ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green)
+  ![AmazonAWS](https://img.shields.io/badge/AWS_Elastic_Beanstalk-569A31?style=for-the-badge&logo=amazonaws&logoColor=white)
+  ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5.svg?style=for-the-badge&logo=Kubernetes&logoColor=white)
+<br><br>
+
 
 **📫 Reach me at:**<br>
 
