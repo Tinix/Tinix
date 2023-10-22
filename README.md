@@ -1,4 +1,4 @@
-## Hi there I'am Daniel Tinivella👋
+## Hi there I'am Daniel 👋
 
 <p align="center">
 I'am Software Engineer from Cordoba Argentina :argentina:. Also known as Tinix.
