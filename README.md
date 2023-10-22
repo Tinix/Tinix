@@ -15,7 +15,6 @@ I love working with Ruby and another language  like Go, Rust, Python and Elixir.
 <code><a href="https://elixir-land.org/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/elixir-lang/elixir-lang-ar21.svg"></a></code>
 <code><a href="https://www.python.org/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></a></code>
 <code><a href="https://www.mongodb.com/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg"></a></code>
-<code><a href="https://postgresql.org/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/postgresql/postgresql-horizontal.svg"></a></code>
 <code><a href="https://rubyonrails.org/" target="_blank"><img height="50" src="https://camo.githubusercontent.com/937a497ef2c526442f18fde7a68bb9b62666170153ab50e29ab7b73d49d3b835/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f7261696c732f7261696c732d706c61696e2d776f72646d61726b2e737667"></a></code>
 
 
