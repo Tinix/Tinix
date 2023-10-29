@@ -33,6 +33,8 @@ I love working with Ruby and another language  like Go, Rust, Python and Elixir.
   ![Docker](https://img.shields.io/badge/Docker-2496ED.svg?style=for-the-badge&logo=Docker&logoColor=white)
   ![Terminal](https://img.shields.io/badge/Terminal-3CB371?style=for-the-badge&logo=gnu-bash&logoColor=white) 
   ![JSON](https://img.shields.io/badge/json-FF69B4?style=for-the-badge&logo=json&logoColor=white)
+  ![GraphQL](https://img.shields.io/badge/GraphQl-E10098?style=for-the-badge&logo=graphql&logoColor=white)
+  
 
 
 **🌱 What I'm Learning**
