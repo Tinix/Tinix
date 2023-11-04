@@ -1,8 +1,8 @@
 ## Hi! I'm Daniel, a Software Engineer 👋
 
 <p align="center">
-I'am Software Engineer from Cordoba Argentina :argentina:. Also known as Tinix.
-I love working with Ruby and another language  like Go, Rust, Python and Elixir. I like to spend my free time with my friends, and I like drinking Mate. I enjoy every day while I work with Linux and his terminal.
+I'am Software Engineer from Cordoba Argentina.
+I love working with Ruby and another programming language like Go, Rust, Elixir and Python. I like to spend my free time with my friends, and also I like drinking Mate. I enjoy every day while I'am working with operating system Linux.
 
 </p>
 
