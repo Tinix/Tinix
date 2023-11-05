@@ -34,7 +34,8 @@ I love working with Ruby and another programming language like Go, Rust, Elixir 
   ![Terminal](https://img.shields.io/badge/Terminal-3CB371?style=for-the-badge&logo=gnu-bash&logoColor=white) 
   ![JSON](https://img.shields.io/badge/json-FF69B4?style=for-the-badge&logo=json&logoColor=white)
   ![GraphQL](https://img.shields.io/badge/GraphQl-E10098?style=for-the-badge&logo=graphql&logoColor=white)
-  
+  ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
+
 
 
 **🌱 What I'm Learning**
@@ -44,7 +45,7 @@ I love working with Ruby and another programming language like Go, Rust, Elixir 
 
 **🌱 What I'm Interested In**
 
-  ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
+
   ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green)
   ![AmazonAWS](https://img.shields.io/badge/AWS_Elastic_Beanstalk-569A31?style=for-the-badge&logo=amazonaws&logoColor=white)
   ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5.svg?style=for-the-badge&logo=Kubernetes&logoColor=white)
