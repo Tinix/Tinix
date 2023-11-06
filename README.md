@@ -1,7 +1,8 @@
 ## Hi! I'm Daniel, a Software Engineer 👋
 
 <p align="center">
-I'am Software Engineer from Cordoba Argentina.
+I am a dedicated Software Engineer from Argentina.
+I am prolific in Ruby software, along with several other programming languages such as Go, Rust, Elixir & Python.
 I love working with Ruby and another programming language like Go, Rust, Elixir and Python. I like to spend my free time with my friends, and also I like drinking Mate. I enjoy every day while I'am working with operating system Linux.
 
 </p>
