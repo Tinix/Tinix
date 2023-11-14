@@ -53,7 +53,7 @@ I like to spend my free time with my friends, and also I like drinking Mate. I e
 **🌱 What I'm Learning**
 
 
-  ![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
+  ![Rust](https://img.shields.io/badge/Rust-B7410E?style=for-the-badge&logo=rust&logoColor=white)
   ![AWS S3](https://img.shields.io/badge/Amazon%20S3-FF9900.svg?style=for-the-badge&logo=Amazon-S3&logoColor=white)
   ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
   <br><br>
