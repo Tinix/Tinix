@@ -15,6 +15,7 @@ I like to spend my free time with my friends, and also I like drinking Mate. I e
   ![ActiveRecord](https://img.shields.io/badge/ActiveRecord-CC0000?style=for-the-badge&logo=rubyonrails&logoColor=white)
   ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
   ![Rust](https://img.shields.io/badge/Rust-b7410e?style=for-the-badge&logo=rust&logoColor=white)
+  ![Elixir](https://img.shields.io/badge/Elixir-4B275F?style=for-the-badge&logo=elixir&logoColor=white)
   ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)  
   ![Stimulus](https://img.shields.io/badge/Stimulus-00AEFF?style=for-the-badge&logo=stimulus&logoColor=white)
   ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -52,7 +53,6 @@ I like to spend my free time with my friends, and also I like drinking Mate. I e
 
 **🌱 What I'm Learning**
 
-  ![Elixir](https://img.shields.io/badge/Elixir-4B275F?style=for-the-badge&logo=elixir&logoColor=white)
   ![AWS S3](https://img.shields.io/badge/Amazon%20S3-FF9900.svg?style=for-the-badge&logo=Amazon-S3&logoColor=white)
   ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
   <br />
