@@ -14,6 +14,7 @@ I like to spend my free time with my friends, and also I like drinking Mate. I e
   ![RSpec](https://img.shields.io/badge/RSpec-FF4136?style=for-the-badge&logo=ruby&logoColor=white)
   ![ActiveRecord](https://img.shields.io/badge/ActiveRecord-CC0000?style=for-the-badge&logo=rubyonrails&logoColor=white)
   ![Elixir](https://img.shields.io/badge/Elixir-4B275F?style=for-the-badge&logo=elixir&logoColor=white)
+  ![Phoenix](https://img.shields.io/badge/Phoenix-fd4f00?style=for-the-badge&logo=elixir&logoColor=white)
   ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
   ![Rust](https://img.shields.io/badge/Rust-b7410e?style=for-the-badge&logo=rust&logoColor=white)
   ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)  
