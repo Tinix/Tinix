@@ -61,6 +61,7 @@ I like to spend my free time with my friends, and also I like drinking Mate. I e
 
 **🌱 What I'Interested In**
 
+  [![Zig](https://img.shields.io/badge/Zig-FFD000?style=for-the-badge&logo=zig&logoColor=white&labelColor=101010)]()
   ![AmazonAWS](https://img.shields.io/badge/AWS_Elastic_Beanstalk-569A31?style=for-the-badge&logo=amazonaws&logoColor=white)
   ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5.svg?style=for-the-badge&logo=Kubernetes&logoColor=white)
 <br />
