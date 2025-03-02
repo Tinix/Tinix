@@ -2,7 +2,7 @@
 
 <p align="center">
 I am a dedicated Software Engineer from Argentina.
-I am prolific in Ruby software, along with several other programming languages such as Elixir, Go, Rust & Python.
+I am prolific in Ruby software, along with several other programming languages such as Elixir, Erlang, Zig, Rust, Go and Python.
 I like to spend my free time with my friends, and also I like drinking Mate. I enjoy every day while I'am working with operating system Linux.
 </p>
 
@@ -12,12 +12,11 @@ I like to spend my free time with my friends, and also I like drinking Mate. I e
   [![Ruby](https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white&labelColor=101010)]()
   [![Ruby on Rails](https://img.shields.io/badge/Ruby_on_Rails-CC0000?style=for-the-badge&logo=ruby-on-rails&logoColor=white&labelColor=101010)]()
   [![RSpec](https://img.shields.io/badge/RSpec-FF4242?style=for-the-badge&logo=ruby&logoColor=white&labelColor=101010)]()
-  [![ActiveRecord](https://img.shields.io/badge/ActiveRecord-CC0000?style=for-the-badge&logo=ruby-on-rails&logoColor=white&labelColor=101010)]()
   [![Elixir](https://img.shields.io/badge/Elixir-4B275F?style=for-the-badge&logo=elixir&logoColor=white&labelColor=101010)]()
   [![Phoenix Framework](https://img.shields.io/badge/Phoenix_Framework-E95420?style=for-the-badge&logo=elixir&logoColor=white&labelColor=101010)]()
-  [![Crystal](https://img.shields.io/badge/Crystal-000000?style=for-the-badge&logo=crystal&logoColor=white&labelColor=101010)]()
-  [![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white&labelColor=101010)]()
+  [![Zig](https://img.shields.io/badge/Zig-F7A41D?style=for-the-badge&logo=zig&logoColor=white&labelColor=101010)]()
   [![Rust](https://img.shields.io/badge/Rust-b7410e?style=for-the-badge&logo=rust&logoColor=white&labelColor=101010)]()
+  [![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white&labelColor=101010)]()
   [![Python](https://img.shields.io/badge/Python-F7B500?style=for-the-badge&logo=python&logoColor=white&labelColor=101010)]() 
   ![Stimulus](https://img.shields.io/badge/Stimulus-00AEFF?style=for-the-badge&logo=stimulus&logoColor=white)
   ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -29,28 +28,20 @@ I like to spend my free time with my friends, and also I like drinking Mate. I e
   ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
   ![GraphQL](https://img.shields.io/badge/GraphQl-E10098?style=for-the-badge&logo=graphql&logoColor=white)
   ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-  ![RESTful API](https://img.shields.io/badge/RESTful_API-555555?style=for-the-badge&logo=code&logoColor=white)
-  ![JSON](https://img.shields.io/badge/json-FF69B4?style=for-the-badge&logo=json&logoColor=white)
-  ![HTML](https://img.shields.io/badge/HTML5-7d3cff?style=for-the-badge&logo=html5&logoColor=white)
-  ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-  ![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
   ![Heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
   ![DigitalOcean](https://img.shields.io/badge/DigitalOcean-0080FF?style=for-the-badge&logo=digitalocean&logoColor=white)
-  ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
   ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
   ![CircleCI](https://img.shields.io/badge/circleci-343434?style=for-the-badge&logo=circleci&logoColor=white)
-  ![Twilio/SendGrid](https://img.shields.io/badge/Twilio/Send_Grid-F22F46?style=for-the-badge&logo=Twilio&logoColor=white) 
-  ![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
   ![Miro](https://img.shields.io/badge/Miro-F7C922?style=for-the-badge&logo=Miro&logoColor=050036)
   ![Docker](https://img.shields.io/badge/Docker-2496ED.svg?style=for-the-badge&logo=Docker&logoColor=white)
   ![Terminal](https://img.shields.io/badge/Terminal-000000?style=for-the-badge&logo=linux&logoColor=white)
   ![tmux](https://img.shields.io/badge/tmux-1BB91F?style=for-the-badge&logo=tmux&logoColor=white)
-  ![Zellij](https://img.shields.io/badge/Zellij-2D3B4D?style=for-the-badge&logo=zellij&logoColor=white)
-  ![Alacritty](https://img.shields.io/badge/Alacritty-F46D01?style=for-the-badge&logo=alacritty&logoColor=white)
   ![Vim](https://img.shields.io/badge/Vim-019733?style=for-the-badge&logo=vim&logoColor=white)
   ![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
   ![Arch Linux](https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white)
   ![Debian](https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white)
+  [![FreeBSD](https://img.shields.io/badge/FreeBSD-D72B2B?style=for-the-badge&logo=freebsd&logoColor=white&labelColor=101010)]()
+
   <br />
 
 **🌱 What I'm Learning**
