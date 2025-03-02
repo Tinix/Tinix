@@ -20,9 +20,6 @@ I like to spend my free time with my friends, and also I like drinking Mate. I e
   [![Python](https://img.shields.io/badge/Python-F7B500?style=for-the-badge&logo=python&logoColor=white&labelColor=101010)]() 
   ![Stimulus](https://img.shields.io/badge/Stimulus-00AEFF?style=for-the-badge&logo=stimulus&logoColor=white)
   ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
- 
- 
-  
   ![Postgresql](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
   ![SQLite3](https://img.shields.io/badge/SQLite3-003B57.svg?style=for-the-badge&logo=SQLite&logoColor=white)
   ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
