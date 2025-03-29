@@ -36,6 +36,11 @@ I like to spend my free time with my friends, and also I like drinking Mate. I e
   ![Arch Linux](https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white)
   ![Debian](https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white)
   [![FreeBSD](https://img.shields.io/badge/FreeBSD-D72B2B?style=for-the-badge&logo=freebsd&logoColor=white&labelColor=101010)]()
+  [![Emacs](https://img.shields.io/badge/Emacs-7F5AB6?style=for-the-badge&logo=gnu-emacs&logoColor=white&labelColor=101010)]()
+
+
+
+
 
   <br />
 
