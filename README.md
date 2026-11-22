@@ -1,6 +1,7 @@
-## Hi! I'm Daniel, a Software Engineer from Argentina 👋
+## Hi, I'm Tinix
 
 <p align="center">
+Software engineer based in Córdoba, Argentina.
 These days I mostly work with Elixir and Phoenix, and I also enjoy Gleam.
 I've been using GNU/Linux since 1998: Debian is home, with a soft spot for FreeBSD.
 Outside of code, I like spending time with friends and drinking mate 🧉
